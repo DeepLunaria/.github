@@ -16,8 +16,6 @@ We prioritize:
 This is not a trend-driven lab.
 This is a home for software meant to last.
 
----
-
 ## 🎯 Focus Areas
 
 ### 🖥 Systems & Kernel Engineering
@@ -26,8 +24,6 @@ Long-term kernel projects and low-level system work.
 
 * **MoonWake Kernel** – Custom kernel engineering project focused on reliability and controlled behavior
   → [https://github.com/DPR-MoonWake](https://github.com/DPR-MoonWake)
-
----
 
 ### 🤖 Discord Infrastructure & Bot Ecosystem
 
@@ -54,14 +50,10 @@ We develop self-hosted Discord solutions and bot infrastructure designed for sca
 * **Dreamvast** – [Archived] Official discord bot
   → [https://github.com/DPR-Dreamvast](https://github.com/DPR-Dreamvast)
 
----
-
 ### 🛡 Experimental & Security Work
 
 * **BShield Experimentation** – Root detector experimentation
   → [https://github.com/DeepinRain/BShieldExperimentation](https://github.com/DeepinRain/BShieldExperimentation)
-
----
 
 ## 📖 Philosophy
 
@@ -74,14 +66,10 @@ We believe software should:
 * Stay stable across versions
 * Feature rich but safety tested
 
----
-
 ## 🧩 Versioning Approach
 
 We follow structured semantic versioning principles with controlled increments.
 Releases are conservative. Stability is prioritized over rapid iteration.
-
----
 
 ## 🌍 Community
 
@@ -94,8 +82,6 @@ DeepinRain Collective is open to:
 
 This is a **collective**, not a corporation.
 Independent, careful, and engineering-first.
-
----
 
 ## 🔗 Organization
 
