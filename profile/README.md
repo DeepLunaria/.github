@@ -1,8 +1,8 @@
-# 🌧 DeepLunia Collective
+# 🌧 DeepLunia Foundation
 
 > Imagination sparks creation. Stability makes it last.
 
-DeepLunia Collective is a small, independent engineering group focused on building **stable, long-term, production-ready software** with clear documentation and sustainable architecture.
+DeepLunia Foundation is a small, independent engineering group focused on building **stable, long-term, production-ready software** with clear documentation and sustainable architecture.
 
 We prioritize:
 
@@ -73,14 +73,14 @@ Releases are conservative. Stability is prioritized over rapid iteration.
 
 ## 🌍 Community
 
-DeepLunia Collective is open to:
+DeepLunia Foundation is open to:
 
 * Stability-focused engineers
 * Kernel developers
 * Backend infrastructure contributors
 * Documentation contributors
 
-This is a **collective**, not a corporation.
+This is a **Foundation**, not a corporation.
 Independent, careful, and engineering-first.
 
 ## 🔗 Organization
