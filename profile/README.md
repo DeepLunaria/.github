@@ -1,8 +1,8 @@
-# 🌧 DeepinRain Collective
+# 🌧 DeepLunia Collective
 
 > Imagination sparks creation. Stability makes it last.
 
-DeepinRain Collective is a small, independent engineering group focused on building **stable, long-term, production-ready software** with clear documentation and sustainable architecture.
+DeepLunia Collective is a small, independent engineering group focused on building **stable, long-term, production-ready software** with clear documentation and sustainable architecture.
 
 We prioritize:
 
@@ -23,37 +23,37 @@ This is a home for software meant to last.
 Long-term kernel projects and low-level system work.
 
 * **MoonWake Kernel** – Custom kernel engineering project focused on reliability and controlled behavior
-  → <https://github.com/DPR-MoonWake>
+  → <https://github.com/XDL-MoonWake>
 
 ### 🤖 Discord Infrastructure & Bot Ecosystem
 
 We develop self-hosted Discord solutions and bot infrastructure designed for scalability and clean architecture.
 
 * **Rainlink** – Lavalink client implementation
-  → <https://github.com/DeepinRain/Rainlink>
+  → <https://github.com/DeepLunia/Rainlink>
 
 * **LunaStream** – Audio streaming infrastructure
-  → <https://github.com/DPR-LunaStream>
+  → <https://github.com/XDL-LunaStream>
 
 * **LunaticSea** – Advanced Discord-related backend services
-  → <https://github.com/DPR-LunaticSea>
+  → <https://github.com/XDL-LunaticSea>
 
 * **LavaStatusMonitor** – Monitoring & diagnostics for Lavalink nodes
-  → <https://github.com/DeepinRain/LavaStatusMonitor>
+  → <https://github.com/DeepLunia/LavaStatusMonitor>
 
 * **ByteBlaze** – Stable first advanced discord music bot
-  → <https://github.com/DeepinRain/ByteBlaze>
+  → <https://github.com/DeepLunia/ByteBlaze>
 
 * **Cylane** – [Archived] ByteBlaze's predecessor
-  → <https://github.com/DeepinRain/Cylane>
+  → <https://github.com/DeepLunia/Cylane>
 
 * **Dreamvast** – [Archived] Official discord bot
-  → <https://github.com/DPR-Dreamvast>
+  → <https://github.com/XDL-Dreamvast>
 
 ### 🛡 Experimental & Security Work
 
 * **BShield Experimentation** – Root detector experimentation
-  → <https://github.com/DeepinRain/BShieldExperimentation>
+  → <https://github.com/DeepLunia/BShieldExperimentation>
 
 ## 📖 Philosophy
 
@@ -73,7 +73,7 @@ Releases are conservative. Stability is prioritized over rapid iteration.
 
 ## 🌍 Community
 
-DeepinRain Collective is open to:
+DeepLunia Collective is open to:
 
 * Stability-focused engineers
 * Kernel developers
@@ -87,8 +87,8 @@ Independent, careful, and engineering-first.
 
 GitHub:
 
-* [https://github.com/DeepinRain](https://github.com/DeepinRain)
-* [https://github.com/DPR-MoonWake](https://github.com/DPR-MoonWake)
-* [https://github.com/DPR-Dreamvast](https://github.com/DPR-Dreamvast)
-* [https://github.com/DPR-LunaStream](https://github.com/DPR-LunaStream)
-* [https://github.com/DPR-LunaticSea](https://github.com/DPR-LunaticSea)
+* [https://github.com/DeepLunia](https://github.com/DeepLunia)
+* [https://github.com/XDL-MoonWake](https://github.com/XDL-MoonWake)
+* [https://github.com/XDL-Dreamvast](https://github.com/XDL-Dreamvast)
+* [https://github.com/XDL-LunaStream](https://github.com/XDL-LunaStream)
+* [https://github.com/XDL-LunaticSea](https://github.com/XDL-LunaticSea)
