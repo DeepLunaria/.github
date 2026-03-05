@@ -83,17 +83,7 @@ DeepLunatic Foundation is open to:
 This is a **Foundation**, not a corporation.
 Independent, careful, and engineering-first.
 
-## 🔗 Organization
-
-GitHub:
-
-* [https://github.com/DeepLunatic](https://github.com/DeepLunatic)
-* [https://github.com/XDL-MoonWake](https://github.com/XDL-MoonWake)
-* [https://github.com/XDL-Dreamvast](https://github.com/XDL-Dreamvast)
-* [https://github.com/XDL-LunaStream](https://github.com/XDL-LunaStream)
-* [https://github.com/XDL-LunaticSea](https://github.com/XDL-LunaticSea)  → <https://github.com/XDL-MoonWake>
-
-### 🤖 Discord Infrastructure & Bot Ecosystem
+## 🤖 Discord Infrastructure & Bot Ecosystem
 
 We develop self-hosted Discord solutions and bot infrastructure designed for scalability and clean architecture.
 
