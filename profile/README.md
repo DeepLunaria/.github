@@ -24,7 +24,7 @@ This is a home for software meant to last.
 Long-term kernel projects and low-level system work.
 
 * **MoonWake Kernel** – Custom kernel engineering project focused on reliability and controlled behavior
-  → <https://github.com/XDL-MoonWake>
+  → <https://github.com/DXRN-MoonWake>
 
 ### 🤖 Discord Infrastructure & Bot Ecosystem
 
@@ -34,10 +34,10 @@ We develop self-hosted Discord solutions and bot infrastructure designed for sca
   → <https://github.com/DeepLunaria/Rainlink>
 
 * **LunaStream** – Audio streaming infrastructure
-  → <https://github.com/XDL-LunaStream>
+  → <https://github.com/DXRN-LunaStream>
 
 * **LunaticSea** – Advanced Discord-related backend services
-  → <https://github.com/XDL-LunaticSea>
+  → <https://github.com/DXRN-LunaticSea>
 
 * **LavaStatusMonitor** – Monitoring & diagnostics for Lavalink nodes
   → <https://github.com/DeepLunaria/LavaStatusMonitor>
@@ -49,7 +49,7 @@ We develop self-hosted Discord solutions and bot infrastructure designed for sca
   → <https://github.com/DeepLunaria/Cylane>
 
 * **Dreamvast** – [Archived] Official discord bot
-  → <https://github.com/XDL-Dreamvast>
+  → <https://github.com/DXRN-Dreamvast>
 
 ### 🛡 Experimental & Security Work
 
@@ -89,10 +89,10 @@ Independent, careful, and engineering-first.
 GitHub:
 
 * [https://github.com/DeepLunaria](https://github.com/DeepLunaria)
-* [https://github.com/XDL-MoonWake](https://github.com/XDL-MoonWake)
-* [https://github.com/XDL-Dreamvast](https://github.com/XDL-Dreamvast)
-* [https://github.com/XDL-LunaStream](https://github.com/XDL-LunaStream)
-* [https://github.com/XDL-LunaticSea](https://github.com/XDL-LunaticSea)
+* [https://github.com/DXRN-MoonWake](https://github.com/DXRN-MoonWake)
+* [https://github.com/DXRN-Dreamvast](https://github.com/DXRN-Dreamvast)
+* [https://github.com/DXRN-LunaStream](https://github.com/DXRN-LunaStream)
+* [https://github.com/DXRN-LunaticSea](https://github.com/DXRN-LunaticSea)
 
 
 ## Social Media
